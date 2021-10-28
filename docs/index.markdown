@@ -6,3 +6,4 @@ layout: home
 title: Teh Hui Wen
 ---
 Hello this is my website!
+changed styles
