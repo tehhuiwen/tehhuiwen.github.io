@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "wormy apple"
-title_separator          : "-"
+title                    : "Teh Hui Wen"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Teh Hui Wen"
 description              : ""
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # false (default)
-search                   : # true, false (default)
+search                   : true # false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Teh Hui Wen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Coffee. Runs. Ultimate Frisbee. Cats. "
+  bio              : "coffee. runs. ultimate frisbee. cats. "
   location         : "Oxford, United Kingdom"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -289,7 +289,7 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: true
+      related: false
       
 
   # _pages
