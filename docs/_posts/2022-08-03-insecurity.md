@@ -1,8 +1,7 @@
 ---
 layout: single
-title:  "insecurity and affirmation
+title:  "insecurity and affirmation"
 date:   2022-08-03 
-
 ---
 
 In a brief moment of reflection while mopping the floor today, I came upon a realisation that I have always been someone who craved words of affirmation. For example, I needed to hear my close friends say that yes I am their close friend and they need me. I think it comes from an inherent fear that no one likes me. And this fear stems from me not liking myself enough, because I do not think that I am a likable person. Ah, typing this out hurts. 
