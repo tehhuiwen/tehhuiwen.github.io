@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "insecurity and affirmation"
+title:  "Insecurity and Affirmation"
 date:   2022-08-03 
 ---
 
