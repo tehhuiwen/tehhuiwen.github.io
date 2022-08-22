@@ -5,9 +5,9 @@ title: "Discovering a New Author"
 ---
 I was tidying some boxes of old things when I opened one and found some chinese books that belongs to my mum. A book with the title 《小姐小姐别生气》caught my eye because it is from a funny short saying that goes like this:
 
-小姐小姐别生气，(Little missy little missy don't be angry,)\ 
-今晚带你去看戏。(I‘ll take you to the movies tonight.)\ 
-你做椅子我做地，(You sit on the chair I'll sit on the floor,)\ 
+小姐小姐别生气，(Little missy little missy don't be angry,)   
+今晚带你去看戏。(I‘ll take you to the movies tonight.)  
+你做椅子我做地，(You sit on the chair I'll sit on the floor,）   
 你吃香蕉我吃皮。（You eat the banana I'll eat the skin.)\ 
 
 In short, it's about when a guy makes a girl angry and what he promises to do to make her happy again. My mum told me about it when I was young and as kids, it was just fun spewing it randomly. (Kids love reciting lines that rhyme and make no sense.)
