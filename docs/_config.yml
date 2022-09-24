@@ -107,7 +107,7 @@ author:
   name             : "Teh Hui Wen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love coffee, running, playing ultimate frisbee, cats and the nature. \n Trying to hate less and love more. "
-  location         : "Oxford, United Kingdom"
+  location         : 
   email            :
   links:
     - label: "Email"
