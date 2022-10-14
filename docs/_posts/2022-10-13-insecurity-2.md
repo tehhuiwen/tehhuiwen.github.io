@@ -1,5 +1,5 @@
 layout: single
-date: 2023-10-23
+date: 2022-10-13
 title: "Insecurity 2"
 ---
 I think I will restart my daily writing because writing helps me clear my mind and calm my soul. I have been feeling restless all day today, even though I have papers to read. I keep checking my phone impulsively and I keep wanting to talk to people. I couldn't seem to focus much on reading either, thus kinda wasting my afternoon away. 
